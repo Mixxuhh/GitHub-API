@@ -250,7 +250,7 @@ a:hover {
 }
 
 .remove-button {
-  width: 100%;
+  width: 50%;
   background-color: var(--color-danger);
   color: white;
   padding: var(--spacing-3) var(--spacing-6);
